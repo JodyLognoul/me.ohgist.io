@@ -1,0 +1,52 @@
+<!doctype html>
+<html class="no-js">
+<head>
+    <meta charset="utf-8">
+    <title>me egam io</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="stylesheet" href="bower_components/fontawesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="bower_components/normalize-css/normalize.css">
+    <link rel="stylesheet" href="bower_components/ElementTransitions.js/src/css/elementTransitions.css" class="css">
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/dot.css">
+</head>
+<body>
+    <div class="dotstyle dotstyle-tooltip">
+    <ul>
+            <li class="et-rotate current" et-out="moveToRightEasing ontop" et-in="moveFromLeft"><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Products</a></li>
+            <li><a href="#">Portfolio</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </div>
+    <div class="et-wrapper">
+        <div class="et-page et-page-1">
+         <h2>Page 1</h2>
+         <p><b>Page 1</b> - Lorem ipsum Ex anim dolore exercitation do deserunt officia nisi qui incididunt exercitation dolor consectetur exercitation laboris dolore et qui qui nostrud nulla officia cupidatat sit enim ex pariatur anim in irure Ut laboris Excepteur laboris ut adipisicing commodo do eiusmod dolore irure minim anim elit Excepteur minim Excepteur dolore quis ut anim officia Ut reprehenderit consequat ut irure sit cupidatat cupidatat veniam Duis ut sed sunt consequat elit occaecat occaecat sed sit non occaecat enim exercitation tempor sit laborum voluptate occaecat ut do labore exercitation in sed esse id consequat ut occaecat aliqua cupidatat aliqua ut aliquip qui laborum deserunt nostrud eu Duis quis eu adipisicing consequat eiusmod incididunt fugiat anim id Excepteur ex anim laborum magna sit sed elit Ut exercitation cupidatat cillum exercitation nisi mollit nisi commodo dolor deserunt amet esse eu elit Duis sit nulla do consectetur est id sit aliquip elit pariatur sit reprehenderit ex Excepteur in irure enim enim adipisicing exercitation et consequat incididunt eiusmod in consequat qui quis veniam id non eiusmod fugiat exercitation culpa culpa pariatur ex magna officia nulla cupidatat ea adipisicing ut est ut qui amet dolor amet voluptate dolor dolor aliquip reprehenderit eu pariatur ut nulla proident enim sed ex in elit sit in laboris dolore dolor proident sint sit dolor ex cillum ut velit minim nostrud do officia.</p>
+     </div>
+     <div class="et-page et-page-2">
+         <h2>Page 2</h2>
+         <p><b>Page 2</b> - Lorem ipsum Anim voluptate sunt commodo dolor cupidatat ut nulla et ex sint reprehenderit velit Duis dolor mollit dolore elit esse velit dolore ut ut aliqua labore occaecat Ut eu officia nisi elit quis et aute amet in id culpa officia dolore fugiat eiusmod nisi in esse dolore est aliqua proident aute culpa deserunt veniam dolor culpa aliquip in commodo sint dolore laborum qui esse Duis qui occaecat minim do non sint Ut commodo elit ad veniam tempor amet laborum nostrud laborum voluptate quis enim sunt dolore in magna magna sint eiusmod nulla ex Duis laborum Duis commodo veniam id tempor consequat Ut ad laboris deserunt nulla fugiat est pariatur consequat quis aliqua labore qui in incididunt irure anim veniam dolore laborum adipisicing aliqua fugiat enim nulla sed aliquip veniam Ut sed quis Excepteur in nostrud qui do nostrud dolor ut commodo sed eiusmod laboris sunt fugiat labore dolor sit minim et ea reprehenderit incididunt reprehenderit adipisicing sint nostrud amet laborum minim reprehenderit sunt culpa esse est cupidatat nulla velit non ea nulla sed sint eiusmod aute.</p>
+     </div>
+ </div>
+ <script src="bower_components/jquery/dist/jquery.js"></script>
+ <script src="bower_components/modernizr/modernizr.js"></script>
+ <script src="bower_components/ElementTransitions.js/src/js/elementTransitions.js"></script>
+ <script src="scripts/main.js"></script>
+ <script src="scripts/dot.js"></script>
+ <script>
+    [].slice.call( document.querySelectorAll( '.dotstyle > ul' ) ).forEach( function( nav ) {
+        new DotNav( nav, {
+            callback : function( idx ) {
+                        //console.log( idx )
+                    }
+                } );
+    } );
+</script>
+<!-- endbuild -->
+</body>
+</html>

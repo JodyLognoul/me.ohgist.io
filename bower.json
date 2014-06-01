@@ -1,0 +1,12 @@
+{
+    "name": "me-egam-io",
+    "private": true,
+    "dependencies": {
+        "jquery": "~1.11.0",
+        "fontawesome": null,
+        "normalize-css": null,
+        "modernizr": null,
+        "ElementTransitions.js": null
+    },
+    "devDependencies": {}
+}

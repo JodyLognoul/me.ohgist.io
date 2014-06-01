@@ -1,0 +1,2269 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"gr",
+				"green"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"cur",
+				"currentPageIndex"
+			],
+			[
+				"go",
+				"gotoPage"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"padin",
+				"padding-top"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"style",
+				"styles"
+			],
+			[
+				"def",
+				"defaultSort"
+			],
+			[
+				"appe",
+				"appendViewActiveFilterSorting"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"ot",
+				"options"
+			],
+			[
+				"cont",
+				"controller"
+			],
+			[
+				"y",
+				"yield"
+			],
+			[
+				"map",
+				"mapbox"
+			],
+			[
+				"remove",
+				"removeViewProgressbar"
+			],
+			[
+				"app",
+				"appendViewProgressbar"
+			],
+			[
+				"View",
+				"ViewProgressbar"
+			],
+			[
+				"Pr",
+				"progressbarView"
+			],
+			[
+				"progre",
+				"progressbar"
+			],
+			[
+				"ac",
+				"activeFilterSortingView"
+			],
+			[
+				"event",
+				"eventdate"
+			],
+			[
+				"eve",
+				"event_date"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"fil",
+				"filteredEventsCollection"
+			],
+			[
+				"sort",
+				"sort"
+			],
+			[
+				"dat",
+				"datePickerAction"
+			],
+			[
+				"cu",
+				"current_date"
+			],
+			[
+				"ev",
+				"evDatePicker"
+			],
+			[
+				"ini",
+				"initDatePicker"
+			],
+			[
+				"routes",
+				"routesUrl"
+			],
+			[
+				"de",
+				"defaultRoute"
+			],
+			[
+				"max",
+				"max_place"
+			],
+			[
+				"tem",
+				"template"
+			],
+			[
+				"col",
+				"collection"
+			],
+			[
+				"index",
+				"indexRoute"
+			],
+			[
+				"HTML-s",
+				"HTML-script	HTML-script"
+			],
+			[
+				"scr",
+				"script"
+			],
+			[
+				"URL",
+				"URL-route	URL-route"
+			],
+			[
+				"if",
+				"if	blade-if"
+			],
+			[
+				"res",
+				"response"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"Sc",
+				"Schema-drop	Schema-drop"
+			],
+			[
+				"while",
+				"while	while …"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"INput",
+				"Input-file	Input-file"
+			],
+			[
+				"Form",
+				"Form-file	Form-file"
+			],
+			[
+				"picture",
+				"picture-0"
+			],
+			[
+				"input",
+				"inputs"
+			],
+			[
+				"a",
+				"attachTo"
+			],
+			[
+				"att",
+				"attachTo"
+			],
+			[
+				"pro",
+				"proxy"
+			],
+			[
+				"plus",
+				"plusElemClass"
+			],
+			[
+				"re",
+				"refreshTarget"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"ta",
+				"targetClass"
+			],
+			[
+				"tar",
+				"target"
+			],
+			[
+				"append",
+				"appendPlusElem"
+			],
+			[
+				"row",
+				"rowClass"
+			],
+			[
+				"pa",
+				"parent"
+			],
+			[
+				"new",
+				"newElem"
+			],
+			[
+				"ele",
+				"elem"
+			],
+			[
+				"idd",
+				"middle"
+			],
+			[
+				"img",
+				"imgClass"
+			],
+			[
+				"get",
+				"getOptions"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"In",
+				"InputPicturePreview"
+			],
+			[
+				"Input",
+				"Input-all	Input-all"
+			],
+			[
+				"Forn",
+				"Form-open	Form-open"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"HTML",
+				"HTML-image	HTML-image"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"Noti",
+				"Notify"
+			],
+			[
+				"Not",
+				"Notification"
+			],
+			[
+				"noti",
+				"notification"
+			],
+			[
+				"notic",
+				"notification"
+			],
+			[
+				"sec",
+				"section"
+			],
+			[
+				"part",
+				"party"
+			],
+			[
+				"com",
+				"compact"
+			],
+			[
+				"globa",
+				"global"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"Request",
+				"Request-is	Request-is"
+			],
+			[
+				"Requ",
+				"Request-cookie	Request-cookie"
+			],
+			[
+				"Red",
+				"Redirect-route	Redirect-route"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"Re",
+				"Redirect-route	Redirect-route"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"par",
+				"party_id"
+			],
+			[
+				"bo",
+				"border-top-right-radius"
+			],
+			[
+				"HTM",
+				"HTML-image	HTML-image"
+			],
+			[
+				"Inp",
+				"Input-all	Input-all"
+			],
+			[
+				"Shema",
+				"Schema-drop	Schema-drop"
+			],
+			[
+				"Form-",
+				"Form-selectYear	Form-selectYear"
+			],
+			[
+				"Form-t",
+				"Form-textarea	Form-textarea"
+			],
+			[
+				"Redi",
+				"Redirect-route	Redirect-route"
+			],
+			[
+				"Auth",
+				"Auth-user	Auth-user"
+			],
+			[
+				"Redirect",
+				"Redirect-intended	Redirect-intended"
+			],
+			[
+				"Session",
+				"Session-put	Session-put"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"Sche",
+				"Schema-drop	Schema-drop"
+			],
+			[
+				"link",
+				"link_to_route"
+			],
+			[
+				"co",
+				"compact"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"gmap",
+				"gmapString"
+			],
+			[
+				"init",
+				"initMap"
+			],
+			[
+				"gma",
+				"gmapString"
+			],
+			[
+				"inut",
+				"inputSelect"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"span",
+				"span3"
+			],
+			[
+				"W",
+				"width"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"regi",
+				"Register"
+			],
+			[
+				"al",
+				"alink"
+			],
+			[
+				"_",
+				"_link"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"wr",
+				"writeLines"
+			],
+			[
+				"file",
+				"fileContent"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 4461,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/bower_components/ElementTransitions.js/src/js/elementTransitions.js",
+			"settings":
+			{
+				"buffer_size": 3782,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/bower_components/ElementTransitions.js/src/css/elementTransitions.css",
+			"settings":
+			{
+				"buffer_size": 53029,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/styles/main.sass",
+			"settings":
+			{
+				"buffer_size": 943,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/SASS Build/SASS.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"lore",
+				"LoremIpsum: (200) stick shake"
+			],
+			[
+				"lo",
+				"LoremIpsum: (200) stick shake"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rien",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"copy",
+				"File: Copy Path From Project"
+			],
+			[
+				"cop",
+				"File: Copy Name"
+			],
+			[
+				"cop na",
+				"File: Copy Name"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"white",
+				"Highlight Whitespaces: Toggle"
+			],
+			[
+				"cons",
+				"Snippet: consolelog"
+			],
+			[
+				"sni",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snipper edit",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"con",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"path",
+				"File: Copy Path From Project"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"font",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"hint",
+				"JSHint"
+			],
+			[
+				"comme",
+				"Toggle Block Comment"
+			],
+			[
+				"toggle",
+				"Bookmarks: Toggle"
+			],
+			[
+				"comm",
+				"Toggle Block Comment"
+			],
+			[
+				"git",
+				"Package Control: Install Package"
+			],
+			[
+				"dashs",
+				"DashDoc: invoke Dash with selected word (syntax-sensitive)"
+			],
+			[
+				"dah",
+				"DashDoc: invoke Dash with selected word"
+			],
+			[
+				"art route",
+				"Laravel Artisan: Routes"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"route",
+				"Laravel Artisan: Routes"
+			],
+			[
+				"artisan routes",
+				"Laravel Artisan: Routes"
+			],
+			[
+				"REIN",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reidn",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"SassBeautify",
+				"SassBeautify"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"remv",
+				"Package Control: Remove Package"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"gist",
+				"Gist: Create Private Gist"
+			],
+			[
+				"package",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"lorem",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"next col",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"v",
+				"View: Toggle Minimap"
+			],
+			[
+				"colorpre",
+				"ColorSchemeSelector: Previous Color Scheme"
+			],
+			[
+				"color",
+				"ColorSchemeSelector: Next Color Scheme"
+			],
+			[
+				"lor",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"sublimeLint",
+				"Preferences: SublimeLint – Default"
+			],
+			[
+				"sublielint ",
+				"SublimeLint: Show All Errors"
+			],
+			[
+				"lint",
+				"SublimeLint: Next Error"
+			],
+			[
+				"sass ",
+				"Set Syntax: Sass"
+			],
+			[
+				"Snippet: tag",
+				"Snippet: endtag"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"gist cre",
+				"Gist: Create Private Gist"
+			],
+			[
+				"gist ",
+				"Gist: Open Gist"
+			],
+			[
+				"ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"con ta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"create",
+				"Gist: Create Private Gist"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"indentation",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"send to ",
+				"Send to evernote"
+			],
+			[
+				"evernote",
+				"Evernote Settings"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"inste",
+				"Package Control: Install Package"
+			],
+			[
+				"ope",
+				"Gist: Open Gist"
+			],
+			[
+				"inst	",
+				"Package Control: Install Package"
+			],
+			[
+				"sni jqu",
+				"Snippet: jQuery on handler"
+			],
+			[
+				"snip jque",
+				"Snippet: jQuery Plugin Boilerplate"
+			],
+			[
+				"sni jquer",
+				"Snippet: A basic jQuery selector"
+			],
+			[
+				"sy ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"Pro",
+				"Project: Add Folder"
+			],
+			[
+				"add pr",
+				"Package Control: Add Repository"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"symfony",
+				"Snippet: Symfony2 / Controller / Get Entity Manager"
+			],
+			[
+				"css",
+				"Snippet: CSS - :active"
+			],
+			[
+				"giest",
+				"Gist: Open Gist"
+			],
+			[
+				"for",
+				"Snippet: <?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssja",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-svgmin/node_modules/svgo/plugins/removeNonInheritableGroupAttrs.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt/node_modules/findup-sync/node_modules/glob/test/readme-issue.js",
+		"/private/var/www/dev/me.egam.io/README.md",
+		"/private/var/www/dev/me.egam.io/app/scripts/dot.js",
+		"/private/var/www/dev/me.egam.io/app/scripts/main.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-bower-install/node_modules/bower-config/node_modules/mout/array/invoke.js",
+		"/private/var/www/dev/me.egam.io/app/bower_components/ElementTransitions.js/build/elementTransitions.css",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-mocha/node_modules/grunt-lib-phantomjs/node_modules/temporary/node_modules/package/examples/custom_path.js",
+		"/private/var/www/dev/me.egam.io/package.json",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-svgmin/node_modules/svgo/plugins/moveElemsAttrsToGroup.js",
+		"/private/var/www/dev/me.egam.io/app/bower_components/modernizr/feature-detects/pointerlock-api.js",
+		"/private/var/www/dev/me.egam.io/app/bower_components/ElementTransitions.js/src/css/elementTransitions.css",
+		"/private/var/www/dev/me.egam.io/app/bower_components/ElementTransitions.js/build/elementTransitions.min.js",
+		"/private/var/www/dev/me.egam.io/app/styles/main.sass",
+		"/private/var/www/dev/me.egam.io/app/styles/dot.sass",
+		"/private/var/www/dev/me.egam.io/bower.json",
+		"/private/var/www/dev/me.egam.io/app/styles/animation.css",
+		"/private/var/www/dev/me.egam.io/app/styles/todo1.css",
+		"/private/var/www/dev/me.egam.io/app/scripts/pagetransitions.js",
+		"/Users/jody/Downloads/transition.js-master/Demo Single Page.html",
+		"/Users/jody/Downloads/PageTransitions 2/js/pagetransitions.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-svgmin/node_modules/svgo/node_modules/sax/test/attribute-name.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-contrib-clean/AUTHORS",
+		"/Users/jody/Downloads/transition.js-master/js/transition.js",
+		"/Users/jody/Downloads/transition.js-master/css/demo-single-page.css",
+		"/private/var/www/dev/me.egam.io/app/styles/colors.sass",
+		"/Users/jody/Downloads/transition.js-master/css/animation.css",
+		"/private/var/www/dev/me.egam.io/app/styles/dotcss.css",
+		"/private/var/www/dev/me.egam.io/app/styles/2-todo.css",
+		"/private/var/www/dev/me.egam.io/app/styles/transitions.sass",
+		"/private/var/www/dev/me.egam.io/app/styles/1-todo.css",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-bower-install/node_modules/bower-config/node_modules/mout/date/dayOfTheYear.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-contrib-concat/test/expected/default_options",
+		"/private/var/www/dev/me.egam.io/app/styles/add.scss",
+		"/private/var/www/dev/me.egam.io/app/bower_components/fontawesome/scss/_icons.scss",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-svgmin/node_modules/svgo/node_modules/sax/test/attribute-no-space.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-bower-install/node_modules/bower-config/node_modules/mout/lang/isNull.js",
+		"/private/var/www/dev/me.egam.io/app/index.html",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-svgmin/node_modules/svgo/plugins/convertShapeToPath.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-mocha/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/node_modules/request/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-pipe-resumes.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-bower-install/node_modules/bower-config/node_modules/mout/src/lang/inheritPrototype.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-contrib-imagemin/node_modules/image-min/node_modules/concat-stream/node_modules/inherits/package.json",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-contrib-cssmin/node_modules/clean-css/lib/properties/shorthand-notations.js",
+		"/private/var/www/dev/me.egam.io/node_modules/jshint-stylish/stylish.js",
+		"/private/var/www/dev/me.egam.io/node_modules/load-grunt-tasks/node_modules/findup-sync/node_modules/glob/test/new-glob-optional-options.js",
+		"/private/var/www/dev/me.egam.io/node_modules/load-grunt-tasks/node_modules/findup-sync/node_modules/glob/node_modules/inherits/package.json",
+		"/private/var/www/dev/me.egam.io/node_modules/load-grunt-tasks/node_modules/findup-sync/node_modules/glob/test/readme-issue.js",
+		"/private/var/www/dev/me.egam.io/node_modules/load-grunt-tasks/node_modules/findup-sync/node_modules/glob/test/nocase-nomagic.js",
+		"/private/var/www/dev/me.egam.io/test/bower_components/mocha/media/logo.svg",
+		"/private/var/www/dev/me.egam.io/node_modules/load-grunt-tasks/load-grunt-tasks.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-bower-install/node_modules/bower-config/node_modules/optimist/example/line_count_options.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt/LICENSE-MIT",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-svgmin/node_modules/svgo/plugins/moveGroupAttrsToElems.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-svgmin/node_modules/svgo/node_modules/sax/examples/get-products.js",
+		"/private/var/www/dev/me.egam.io/node_modules/load-grunt-tasks/node_modules/findup-sync/node_modules/glob/test/pause-resume.js",
+		"/private/var/www/dev/me.egam.io/node_modules/load-grunt-tasks/package.json",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt/node_modules/glob/test/pause-resume.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-contrib-concat/test/expected/process_function",
+		"/private/var/www/dev/me.egam.io/me.egam.io.sublime-project",
+		"/Users/jody/Library/Application Support/Sublime Text 3/Packages/User/excludeFromStProject.sublime-snippet",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/private/etc/apache2/httpd.conf",
+		"/private/var/www/dev/me.egam.io/Gruntfile.js",
+		"/private/var/www/dev/me.egam.io/app/styles/style.sass",
+		"/private/var/www/dev/me.egam.io/.tmp/concat/styles/vendor.css",
+		"/private/var/www/dev/me.egam.io/app/vendor/foundation/scss/_settings.scss",
+		"/private/var/www/dev/me.egam.io/app/bower_components/modernizr/test/js/setup.js",
+		"/private/var/www/dev/me.egam.io/node_modules/bower/templates/search-empty.mustache",
+		"/private/var/www/dev/me.egam.io/node_modules/bower/node_modules/request/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/lib/delayed_stream.js",
+		"/private/var/www/dev/me.egam.io/node_modules/bower/node_modules/request/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-handle-source-errors.js",
+		"/private/var/www/dev/me.egam.io/node_modules/bower/node_modules/request/node_modules/form-data/node-form-data.sublime-project",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-browser-sync/node_modules/browser-sync/lib/control-panel/fonts/font-awesome/css/font-awesome.css",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-contrib-imagemin/node_modules/gifsicle/node_modules/bin-wrapper/node_modules/mout/object/forOwn.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-contrib-concat/test/fixtures/file1",
+		"/private/var/www/dev/me.egam.io/app/styles/sass/main.sass",
+		"/private/var/www/dev/me.egam.io/app/styles/foundation/scss/app.scss",
+		"/private/var/www/dev/me.egam.io/app/styles/foundation/scss/_settings.scss",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/mozilla-ast.js",
+		"/private/var/www/dev/me.egam.io/node_modules/bower/Makefile",
+		"/private/var/www/dev/me.egam.io/app/styles/settings.scss",
+		"/private/var/www/dev/me.egam.io/app/styles/test/test.sass",
+		"/private/var/www/dev/me.egam.io/.tmp/styles/test/test.css",
+		"/private/var/www/dev/me.egam.io/app/styles/vendor/foundation/stylesheets/settings.scss",
+		"/private/var/www/dev/me.egam.io/app/styles/main.css",
+		"/private/var/www/dev/me.egam.io/.tmp/styles/new.css",
+		"/private/var/www/dev/me.egam.io/app/styles/app.scss",
+		"/private/var/www/dev/me.egam.io/app/styles/_settings.scss",
+		"/private/var/www/dev/me.egam.io/app/styles/new.sass",
+		"/private/var/www/dev/egam.io/app/views/layouts/master.blade.php",
+		"/Users/jody/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/private/var/www/dev/gg-mobile-first/public/css/vendor/bootflat/css/bootflat.css",
+		"/private/var/www/dev/gg-mobile-first/public/css/main.css",
+		"/private/var/www/dev/gg-mobile-first/public/css/landing.css",
+		"/private/var/www/dev/gg-mobile-first/composer.phar",
+		"/private/var/www/dev/gg-mobile-first/app/lang/en/reminders.php",
+		"/private/var/www/dev/gg-mobile-first/readme.md",
+		"/private/var/www/dev/gg-mobile-first/app/routes.php",
+		"/private/var/www/dev/gg-mobile-first/public/js/app/event/index/viewActiveFilterSorting.js",
+		"/private/var/www/dev/gg-mobile-first/public/js/app/event/index/controller.js",
+		"/private/var/www/dev/gg-mobile-first/public/js/vendor/backbone-amd/backbone.js",
+		"/private/var/www/dev/gg-mobile-first/public/js/app/event/index/router.js",
+		"/private/var/www/dev/gg-mobile-first/.gitignore",
+		"/Users/jody/Library/Caches/Cleanup At Startup/Transmit/9AB2A8F7-979E-4442-A5CD-DB4B3E075665/wp-config.php",
+		"/private/var/www/dev/gg-mobile-first/public/js/app/event/index/viewCollection.js",
+		"/private/var/www/dev/gg-mobile-first/public/js/app/event/index/collection.js",
+		"/private/var/www/dev/gg-mobile-first/public/js/app/event/index/main.js",
+		"/private/var/www/dev/gg-mobile-first/app/views/layouts/master.blade.php",
+		"/private/var/www/dev/gg-mobile-first/public/css/main.sass",
+		"/private/var/www/dev/gg-mobile-first/public/js/app/event/index-map/main.js",
+		"/private/var/www/dev/gg-mobile-first/app/views/event/index-map.blade.php",
+		"/private/var/www/dev/gg-mobile-first/bower.json",
+		"/private/var/www/dev/gg-mobile-first/app/controllers/EventController.php",
+		"/private/var/www/dev/gg-mobile-first/app/views/event/map/index-map.blade.php",
+		"/private/var/www/dev/gg-mobile-first/gg-mobile-first.sublime-project",
+		"/private/var/www/dev/gg-mobile-first/app/views/event/map/index.blade.php",
+		"/private/var/www/dev/gg-mobile-first/app/views/event/index.blade.php",
+		"/private/var/www/dev/gg-mobile-first/build.sh",
+		"/private/var/www/dev/gg-mobile-first/scripts/build.sh",
+		"/private/var/www/dev/gg-mobile-first/scripts/connect-ec2.sh",
+		"/private/var/www/dev/gg-mobile-first/shell-scripts/connect-ec2.sh",
+		"/Users/jody/Library/Application Support/Sublime Text 2/Packages/User/_date.sublime-snippet",
+		"/private/var/www/dev/gg-mobile-first/public/js/app/event/index/viewProgressbar.js",
+		"/Users/jody/Desktop/albums.html",
+		"/private/var/www/dev/gg-mobile-first/public/packages/.gitkeep",
+		"/private/var/www/dev/gg-mobile-first/public/js/app/event/index/collectionView.js",
+		"/private/var/www/dev/gg-mobile-first/public/js/app/event/index/activeFilterSortingView.js",
+		"/private/var/www/dev/gg-mobile-first/public/js/vendor/bootflat/README.md",
+		"/Users/jody/Documents/Work/Guestgame/old-public/js/gmaps.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/private/var/www/dev/gg-mobile-first",
+			"/private/var/www/dev/gg-mobile-first/app",
+			"/private/var/www/dev/gg-mobile-first",
+			"/private/var/www/dev/gg-mobile-first/app",
+			"/private/var/www/dev/gg-mobile-first/app/models",
+			"/private/var/www/dev/gg-mobile-first/app/database",
+			"/private/var/www/dev/gg-mobile-first",
+			"/private/var/www/dev/ksvwebsite",
+			"/private/var/www/dev/ksvwebsite/wp-content",
+			"/private/var/www/dev/ksvwebsite/wp-content/plugins/woocommerce/templates",
+			"/private/var/www/dev/ksvwebsite/wp-content",
+			"/private/var/www/dev/ksvwebsite",
+			"/private/var/www/dev/ksvwebsite/wp-content",
+			"/private/var/www/dev/ksvwebsite",
+			"<project>",
+			"/private/var/www/dev/ksvwebsite",
+			"/Users/jody/Desktop/BACKUP-ksvwebsite",
+			"/Volumes/192.168.2.101/wp-content",
+			"/var/www/dev/ksvwebsite/wp-content/plugins/easy-wordpress-donations",
+			"<project>",
+			"/var/www/dev/ksvwebsite",
+			"/var/www/dev/ksvwebsite/wp-content/themes/DonateNow",
+			"/var/www/dev/ksvwebsite",
+			"/var/www/dev/ksvwebsite/wp-content",
+			"/var/www/dev/ksvwebsite/wp-content/themes/DonateNow",
+			"/var/www/dev/ksvwebsite/wp-content",
+			"/var/www/dev/ksvwebsite/wp-content/themes/DonateNow",
+			"/var/www/dev/ksvwebsite/wp-content",
+			"/var/www/dev/ksvwebsite/wp-content/themes/DonateNow",
+			"<project>",
+			"/var/www/dev/laravel/public",
+			"/home/jody/Bureau/xml",
+			"<project>",
+			"/var/www/dev/laravel/public",
+			"<project>,/home/jody/Bureau/advanced-backbone-patterns-and-techniques/advanced-backbone-patterns-and-techniques-master",
+			"<project>",
+			"/var/www/dev/laravel/public",
+			"laravel/public",
+			"<project>",
+			"/var/www/dev/laravel/bundles/oneauth",
+			"/var/www/dev/laravel/bundles/bundocs",
+			"<project>",
+			"/var/www/dev/laravel/bundles/oneauth",
+			"<project>",
+			"/var/www/dev/laravel",
+			"/home/jody/Bureau/ftp/nayax",
+			"<project>",
+			"/home/jody/Bureau/ftp/nayax",
+			"http://nayax.ch",
+			"/home/jody/www/dev/gg-new",
+			"/var/www/nayax",
+			"/var/www/nayax/wp-content/themes",
+			"/var/www/nayax",
+			"/var/www/nayax/wp-content/themes/nexus-1.0.2",
+			"/var/www/sf2card/src",
+			"/var/www/sf2card/vendor",
+			"/var/www/sf2card/src/Ca/CardBundle",
+			"/var/www/sf2card/vendor",
+			"/var/www/nayax",
+			"/var/www/sf2card",
+			"/var/www/nayax",
+			"/var/www/nayax/wp-content/themes/nexus-1.0.2",
+			"/var/www/nayax/wp-content/themes/nexus-1.0.2/nexus",
+			"/home/jody/Bureau/cdv",
+			"/home/jody/cdv",
+			"/home/jody/Bureau/efolio",
+			"/home/jody/.gvfs/FTP sur www.afacard.ch en tant que admin/cdv",
+			"/var/www/nayax/wp-content/themes/nexus-1.0.2",
+			"/var/www/sf2gg"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"et-rotate",
+			"moveToRightEasing",
+			"moveFromLeft",
+			"et-rotate",
+			"rotate",
+			"<h2>Page",
+			"red",
+			"</h2>",
+			"\"",
+			"==",
+			"button",
+			"et-rotate",
+			"rotate",
+			"$(\".et-rotate\")",
+			"et-rotate",
+			"click",
+			"h2",
+			"goto",
+			"==",
+			"6",
+			"5",
+			"13",
+			"current",
+			"gotoPage",
+			"</li>",
+			"button",
+			"// ",
+			";",
+			"#",
+			"}",
+			"{",
+			"usemin",
+			"concat",
+			"build",
+			"build:",
+			"concat:",
+			"conca",
+			"cona",
+			"contri",
+			"easing",
+			"eas",
+			"$currentPag",
+			"$nextPage",
+			"alert",
+			"!=",
+			"==",
+			"pageTrigger",
+			"out",
+			"animationClasses",
+			"  ",
+			";",
+			"{",
+			"}",
+			";",
+			"{",
+			"#c44d48",
+			";",
+			"}",
+			"{",
+			";",
+			" ",
+			"}",
+			"{",
+			".dotstyle-tooltip",
+			";",
+			"}",
+			"{",
+			".dotstyle-tooltip",
+			".no-touch \n    .dotstyle-tooltip",
+			".dotstyle-tooltip",
+			"dotstyle-tooltip ",
+			".dotstyle-tooltip",
+			"dotstyle-tooltip",
+			";",
+			"{",
+			"}",
+			".dotstyle-fillup li a",
+			";",
+			"}",
+			"{",
+			";",
+			"{",
+			"}",
+			"virtual",
+			"<li>",
+			"fa-external-link",
+			",",
+			";",
+			"'*.scss'",
+			"scss",
+			"main",
+			"main.scss",
+			";",
+			"body:",
+			"body :",
+			"body:",
+			"body",
+			"font-size",
+			"primary-color:",
+			"primary-color",
+			"primary",
+			"compass",
+			"sass",
+			"/styles/{,*/",
+			"/styles/",
+			"styles/m",
+			"styles/main",
+			"styles/",
+			";",
+			"compass",
+			"styles",
+			"compass",
+			"files:",
+			"bower_components",
+			"compass",
+			"build",
+			"build:",
+			"found",
+			"doun",
+			"founda",
+			"compile",
+			"npm",
+			"np",
+			"respon",
+			"res",
+			"responsive",
+			"params.query",
+			"voir"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://www2.ksv.org.in",
+			"ksv.local",
+			"\"",
+			"$2",
+			"123",
+			"cccccccccccccccccccccc",
+			"/s",
+			"$2",
+			"$0",
+			"$3",
+			"$1",
+			"$2",
+			"$1",
+			"function",
+			"http://themergency.com/footable-demo/images/",
+			"",
+			"\\\"",
+			"#D84C2C",
+			"white-text",
+			"",
+			"<h2 class=\"h2\">",
+			"\"",
+			"'",
+			"http://nayax.ch",
+			"#",
+			"local",
+			"Name\nName",
+			"correspondance",
+			"nb-etiquette"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4461,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								739,
+								739
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/bower_components/ElementTransitions.js/src/js/elementTransitions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1382,
+								1391
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 320.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/bower_components/ElementTransitions.js/src/css/elementTransitions.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 53029,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3552,
+								3552
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2334.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/styles/main.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 943,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								720,
+								720
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 251.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"project": "me.egam.io.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ele",
+				"app/bower_components/ElementTransitions.js/src/css/elementTransitions.css"
+			],
+			[
+				"mains",
+				"app/styles/main.sass"
+			],
+			[
+				"elecss",
+				"app/bower_components/ElementTransitions.js/src/css/elementTransitions.css"
+			],
+			[
+				"elementtransitions",
+				"app/bower_components/ElementTransitions.js/src/js/elementTransitions.js"
+			],
+			[
+				"mainsa",
+				"app/styles/main.sass"
+			],
+			[
+				"an",
+				"app/styles/animation.css"
+			],
+			[
+				"dotsa",
+				"app/styles/dot.sass"
+			],
+			[
+				"dot",
+				"app/scripts/dot.js"
+			],
+			[
+				"ani",
+				"app/styles/animation.css"
+			],
+			[
+				"main",
+				"app/styles/main.sass"
+			],
+			[
+				"page",
+				"app/scripts/pagetransitions.js"
+			],
+			[
+				"tr",
+				"app/styles/transitions.sass"
+			],
+			[
+				"dot.js",
+				"app/scripts/dot.js"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"project",
+				"~/Library/Application Support/Sublime Text 3/Packages/User/excludeFromStProject.sublime-snippet"
+			],
+			[
+				"sett",
+				"app/vendor/foundation/scss/_settings.scss"
+			],
+			[
+				"fondsett",
+				"app/vendor/foundation/scss/_settings.scss"
+			],
+			[
+				"maste",
+				"app/views/layouts/master.blade.php"
+			],
+			[
+				"viewactive",
+				"js/app/event/index/viewActiveFilterSorting.js"
+			],
+			[
+				"viewco",
+				"js/app/event/index/viewCollection.js"
+			],
+			[
+				"viewac",
+				"js/app/event/index/viewActiveFilterSorting.js"
+			],
+			[
+				"backbone",
+				"js/vendor/backbone-amd/backbone.js"
+			],
+			[
+				"controller",
+				"js/app/event/index/controller.js"
+			],
+			[
+				"eventcollectio",
+				"gg-mobile-first/public/js/app/event/index/collection.js"
+			],
+			[
+				"evencollec",
+				"js/app/event/index/collection.js"
+			],
+			[
+				"routerjs",
+				"js/app/event/index/router.js"
+			],
+			[
+				"mainjs",
+				"js/app/event/index/main.js"
+			],
+			[
+				"mas",
+				"gg-mobile-first/app/views/layouts/master.blade.php"
+			],
+			[
+				"indexmap",
+				"gg-mobile-first/app/views/event/index-map.blade.php"
+			],
+			[
+				"master",
+				"gg-mobile-first/app/views/layouts/master.blade.php"
+			],
+			[
+				"mainsass",
+				"gg-mobile-first/public/css/main.sass"
+			],
+			[
+				"bowe",
+				"gg-mobile-first/bower.json"
+			],
+			[
+				"evencontr",
+				"gg-mobile-first/app/controllers/EventController.php"
+			],
+			[
+				"eventmapindex",
+				"gg-mobile-first/app/views/event/map/index.blade.php"
+			],
+			[
+				"indexmapjs",
+				"index-map/main.js"
+			],
+			[
+				"bow",
+				"bower.json"
+			],
+			[
+				"evencon",
+				"app/controllers/EventController.php"
+			],
+			[
+				"route",
+				"app/routes.php"
+			],
+			[
+				"bu",
+				"build.sh"
+			],
+			[
+				"view",
+				"public/js/app/event/index/viewCollection.js"
+			],
+			[
+				"eveninde",
+				"app/views/event/index.blade.php"
+			],
+			[
+				"actiejs",
+				"public/js/app/event/index/activeFilterSortingView.js"
+			],
+			[
+				"backb",
+				"public/js/vendor/backbone-amd/backbone.js"
+			],
+			[
+				"datetime",
+				"public/css/vendor/datetimepicker/jquery.datetimepicker.css"
+			],
+			[
+				"datetimejs",
+				"public/js/vendor/datetimepicker/jquery.datetimepicker.js"
+			],
+			[
+				"modeleve",
+				"app/models/Event.php"
+			],
+			[
+				"main.sas",
+				"public/css/main.sass"
+			],
+			[
+				"evenseed",
+				"app/database/seeds/EventTableSeeder.php"
+			],
+			[
+				"createevent",
+				"app/database/migrations/2013_11_27_094807_create_event_table.php"
+			],
+			[
+				"eventinde",
+				"app/views/event/index.blade.php"
+			],
+			[
+				"main.js",
+				"public/js/app/event/index/main.js"
+			],
+			[
+				"colleview",
+				"public/js/app/event/index/collectionView.js"
+			],
+			[
+				"evennew",
+				"app/views/event/new.blade.php"
+			],
+			[
+				"userseed",
+				"app/database/seeds/UserTableSeeder.php"
+			],
+			[
+				"evensee",
+				"app/database/seeds/EventTableSeeder.php"
+			],
+			[
+				"eventcolle",
+				"public/js/app/event/index/collection.js"
+			],
+			[
+				"seed",
+				"app/database/seeds/AddressTableSeeder.php"
+			],
+			[
+				"router",
+				"public/js/app/event/index/router.js"
+			],
+			[
+				"ggindex",
+				"gg-mobile-first/app/views/event/index.blade.php"
+			],
+			[
+				"main.sass",
+				"gg-mobile-first/public/css/main.sass"
+			],
+			[
+				"ggroute.js",
+				"gg-mobile-first/public/js/app/event/index/router.js"
+			],
+			[
+				"ggrouter.js",
+				"gg-mobile-first/public/js/app/event/index/router.js"
+			],
+			[
+				"ggmain.js",
+				"gg-mobile-first/public/js/app/event/index/main.js"
+			],
+			[
+				"evinde",
+				"gg-mobile-first/app/views/event/index.blade.php"
+			],
+			[
+				"vendunder",
+				"gg-mobile-first/public/js/vendor/underscore-amd/underscore.js"
+			],
+			[
+				"vendorbackbone",
+				"gg-mobile-first/public/js/vendor/backbone-amd/backbone.js"
+			],
+			[
+				"ggrouter",
+				"gg-mobile-first/public/js/app/event/index/router.js"
+			],
+			[
+				"createta",
+				"gg-mobile-first/app/database/migrations/2013_11_29_124751_create_event_user_table.php"
+			],
+			[
+				"modelview",
+				"gg-mobile-first/public/js/app/event/index/modelView.js"
+			],
+			[
+				"coview",
+				"gg-mobile-first/public/js/app/event/index/collectionView.js"
+			],
+			[
+				"seeduser",
+				"gg-mobile-first/app/database/seeds/EventUserTableSeeder.php"
+			],
+			[
+				"modeevent",
+				"gg-mobile-first/app/models/Event.php"
+			],
+			[
+				"apicon",
+				"gg-mobile-first/app/controllers/EventApiController.php"
+			],
+			[
+				"oldlist",
+				"old-public/_others/list.blade.php"
+			],
+			[
+				"evnviewjs",
+				"gg-mobile-first/public/js/app/event/index/collectionView.js"
+			],
+			[
+				"evenview",
+				"gg-mobile-first/public/js/app/event/index/modelView.js"
+			],
+			[
+				"eventidegrid",
+				"gg-mobile-first/app/views/event/index-grid.blade.php"
+			],
+			[
+				"eventmain.js",
+				"gg-mobile-first/public/js/app/event/index/main.js"
+			],
+			[
+				"indexmas",
+				"gg-mobile-first/app/views/event/index-master.blade.php"
+			],
+			[
+				"list",
+				"old-public/_others/list.blade.php"
+			],
+			[
+				"eventrouter",
+				"gg-mobile-first/public/js/app/event/index/router.js"
+			],
+			[
+				"evenmodel",
+				"gg-mobile-first/public/js/app/event/index/modelView.js"
+			],
+			[
+				"eventview",
+				"gg-mobile-first/public/js/app/event/index/collectionView.js"
+			],
+			[
+				"indegrid",
+				"gg-mobile-first/app/views/event/index-grid.blade.php"
+			],
+			[
+				"eveinde",
+				"app/views/event/index-master.blade.php"
+			],
+			[
+				"evecon",
+				"app/controllers/EventController.php"
+			],
+			[
+				"con",
+				"app/controllers/UserController.php"
+			],
+			[
+				"notifiinde",
+				"app/views/notification/index.blade.php"
+			],
+			[
+				"evensho",
+				"app/views/event/show.blade.php"
+			],
+			[
+				"seedev",
+				"app/database/seeds/EventTableSeeder.php"
+			],
+			[
+				"eventseeder",
+				"app/database/seeds/EventTableSeeder.php"
+			],
+			[
+				"creaevent",
+				"app/database/migrations/2013_11_27_094807_create_event_table.php"
+			],
+			[
+				"event",
+				"app/tests/EventControllerTest.php"
+			],
+			[
+				"eventcon",
+				"app/controllers/EventController.php"
+			],
+			[
+				"datepickjs",
+				"public/js/vendor/datetimepicker/jquery.datetimepicker.js"
+			],
+			[
+				"datecss",
+				"public/css/vendor/datetimepicker/jquery.datetimepicker.css"
+			],
+			[
+				"createevente",
+				"app/database/migrations/2013_11_27_094807_create_event_table.php"
+			],
+			[
+				"address",
+				"app/database/seeds/AddressTableSeeder.php"
+			],
+			[
+				"eventnew",
+				"app/views/event/new.blade.php"
+			],
+			[
+				"createeve",
+				"app/database/migrations/2013_11_27_094807_create_event_table.php"
+			],
+			[
+				"seedevent",
+				"app/database/seeds/EventTableSeeder.php"
+			],
+			[
+				"migrateevent",
+				"app/database/migrations/2013_11_27_094807_create_event_table.php"
+			],
+			[
+				"modeeve",
+				"app/models/Event.php"
+			],
+			[
+				"app",
+				"app/config/app.php"
+			],
+			[
+				"party",
+				"app/tests/PartyControllerTest.php"
+			],
+			[
+				"eventco",
+				"app/controllers/EventController.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"dis",
+				"vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php"
+			],
+			[
+				"facade",
+				"vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php"
+			],
+			[
+				"seeder",
+				"app/database/seeds/DatabaseSeeder.php"
+			],
+			[
+				"createparty",
+				"app/database/migrations/2013_11_29_124751_create_party_user_table.php"
+			],
+			[
+				"partynew",
+				"app/views/party/new.blade.php"
+			],
+			[
+				"partinde",
+				"app/views/party/index.blade.php"
+			],
+			[
+				"par",
+				"app/models/Party.php"
+			],
+			[
+				"partyseed",
+				"app/database/seeds/PartyTableSeeder.php"
+			],
+			[
+				"createpar",
+				"app/database/migrations/2013_11_27_094807_create_party_table.php"
+			],
+			[
+				"viewuser",
+				"app/views/user/create.blade.php"
+			],
+			[
+				"usercon",
+				"app/controllers/UserController.php"
+			],
+			[
+				"partycon",
+				"app/controllers/PartyController.php"
+			],
+			[
+				"creaadd",
+				"app/database/migrations/2013_11_27_094759_create_address_table.php"
+			],
+			[
+				"creaparty",
+				"app/database/migrations/2013_11_27_094807_create_party_table.php"
+			],
+			[
+				"partyinde",
+				"app/views/party/index.blade.php"
+			],
+			[
+				"bootfl",
+				"public/css/vendor/bootflat/css/bootflat.css"
+			],
+			[
+				"seedpa",
+				"app/database/seeds/PartyTableSeeder.php"
+			],
+			[
+				"seedpart",
+				"app/database/seeds/PartyTableSeeder.php"
+			],
+			[
+				"partindex",
+				"app/views/party/index.blade.php"
+			],
+			[
+				"partyshow",
+				"app/views/party/show.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/private/var/www/dev/egam.io/egam.io.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
