@@ -34,8 +34,7 @@ var PageTransitions = (function($) {
 		updateArrows(1);
 	}
 	function updateArrows(gotoIndex){
-
-		$('.title-prev').html(titles[gotoIndex === 1 ? titles.length - 1 : gotoIndex - 1 ]);
+		$('.title-prev').html(titles[gotoIndex === 1 ? titles.length - 1 : gotoIndex - 2 ]);
 		$('.title-next').html(titles[gotoIndex === titles.length ? 0 : gotoIndex ]);
 	}
 	function initTitlesIndex(){
