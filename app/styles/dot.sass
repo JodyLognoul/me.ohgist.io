@@ -1,11 +1,11 @@
 @import colors
 
-$colormenu: $grey
+$color: white
 
 .dotstyle
     display: inline-block
     width: 100%
-    margin: 50px 0
+    bottom: 20px
     text-align: center
     position: absolute
     z-index: 1
@@ -40,7 +40,7 @@ $colormenu: $grey
     height: 100%
     outline: none
     border-radius: 50%
-    background-color: $green
+    background-color: $color
     background-color: rgba(255, 255, 255, 0.3)
     text-indent: -999em /* make the text accessible to screen readers */
     cursor: pointer
@@ -53,7 +53,7 @@ $colormenu: $grey
 /* Fill in */
 .dotstyle-fillin li a
     background-color: transparent
-    box-shadow: inset 0 0 0 2px $green
+    box-shadow: inset 0 0 0 2px $color
     -webkit-transition: box-shadow 0.3s ease
     transition: box-shadow 0.3s ease
 
@@ -64,4 +64,4 @@ $colormenu: $grey
 
 
 .dotstyle-fillin li.current a
-    box-shadow: inset 0 0 0 8px $green
+    box-shadow: inset 0 0 0 8px $color
