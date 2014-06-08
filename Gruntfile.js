@@ -346,6 +346,24 @@ module.exports = function(grunt) {
                 'imagemin',
                 'svgmin'
             ]
+        },
+        // Remove unused CSS across multiple files
+        uncss: {
+            dist: {
+                options: {
+                    csspath      : '../.tmp/',
+                    stylesheets  : [
+                        'styles/dot.css',
+                        'styles/main.css',
+                        'styles/nav.css',
+                        'concat/styles/main.css',
+                        'concat/styles/vendor.css'
+                    ]
+                },
+                files: {
+                    'dist/styles/tidy.css': ['app/index.html']
+                }
+            }
         }
     });
 
