@@ -209,7 +209,7 @@ module.exports = function(grunt) {
                         '<%= config.dist %>/scripts/{,*/}*.js',
                         '<%= config.dist %>/styles/{,*/}*.css',
                         '<%= config.dist %>/images/{,*/}*.*',
-                        '<%= config.dist %>/styles/fonts/{,*/}*.*',
+                        '<%= config.dist %>/fonts/{,*/}*.*',
                         '<%= config.dist %>/*.{ico,png}'
                     ]
                 }
@@ -318,7 +318,7 @@ module.exports = function(grunt) {
                         '.htaccess',
                         'images/{,*/}*.webp',
                         '{,*/}*.html',
-                        'styles/fonts/{,*/}*.*'
+                        'fonts/{,*/}*.*'
                     ]
                 }]
             },
@@ -352,12 +352,12 @@ module.exports = function(grunt) {
             dist: {
                 files: [{
                     src: ['<%= config.app %>/*.html'],
-                    dest: '.tmp/concat/styles/vendor.css'
+                    dest: '.tmp/concat/styles/main.css'
                 }]
             },
             options: {
                 csspath: '../.tmp/concat/',
-                stylesheets  : ['styles/vendor.css'],
+                stylesheets  : ['styles/main.css'],
             }
         }
     });
@@ -403,7 +403,7 @@ module.exports = function(grunt) {
         'concurrent:dist',
         'autoprefixer',
         'concat',
-        'uncss',
+        // 'uncss',
         'cssmin',
         'uglify',
         'copy:dist',
