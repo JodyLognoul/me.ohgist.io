@@ -26,11 +26,11 @@
 <body>
     <div class="dotstyle dotstyle-fillin">
         <ul>
-            <li class="et-rotate current" et-out="moveToLeftEasing ontop" et-in="moveFromRight" data-title="Home" data-index="1"><a href="#">Home</a></li>
-            <li class="et-rotate" et-out="moveToLeftEasing ontop" et-in="moveFromRight" data-title="School" data-index="2"><a href="#">School</a></li>
-            <li class="et-rotate" et-out="moveToLeftEasing ontop" et-in="moveFromRight" data-title="Work" data-index="3"><a href="#">Work</a></li>
-            <li class="et-rotate" et-out="moveToLeftEasing ontop" et-in="moveFromRight" data-title="Competences" data-index="4"><a href="#">Competences</a></li>
-            <li class="et-rotate" et-out="moveToLeftEasing ontop" et-in="moveFromRight" data-title="Workflow" data-index="4"><a href="#">Workflow</a></li>
+            <li class="et-rotate current" et-out="moveToLeftEasing ontop" et-in="moveFromRight" data-title="Profile" data-index="1"><a href="#">Profile</a></li>
+            <li class="et-rotate" et-out="moveToLeftEasing ontop" et-in="moveFromRight" data-title="Education" data-index="2"><a href="#">Education</a></li>
+            <li class="et-rotate" et-out="moveToLeftEasing ontop" et-in="moveFromRight" data-title="Experience" data-index="3"><a href="#">Experience</a></li>
+            <li class="et-rotate" et-out="moveToLeftEasing ontop" et-in="moveFromRight" data-title="Skills" data-index="4"><a href="#">Skills</a></li>
+            <li class="et-rotate" et-out="moveToLeftEasing ontop" et-in="moveFromRight" data-title="My Workflow" data-index="5"><a href="#">My Workflow</a></li>
         </ul>
     </div>
     <nav class="nav-roundslide">
@@ -49,8 +49,9 @@
     <div class="et-page et-page-1">
         <div class="infos">   
             <img src="images/me.jpg" alt="">
-            <h1>Jody Lognoul</h1>
-            <h2>#webdeveloper</h2>
+            <h1 class="name">Jody Lognoul</h1>
+            <h2 class="hashtag">#webdeveloper</h2>
+            <p class="status"><i class="fa-small fa fa-quote-left"></i><span class="fade6"> is looking for a job at the beginning of September 2014 </span><i class="fa-small fa fa-quote-right"></i></p>
         </div>
         <div class="rzo-soc">
             <a href=""><i class="fa-facebook-square fa"></i></a>
@@ -60,29 +61,48 @@
         </div>
     </div>
     <div class="et-page et-page-2">
-        <h1 class="h1-fade"><i class="fa fa-graduation-cap"></i> - School</h1>
-        <ul>
-            <li>Bachelier en Informatique et Systèmes - Finalité Réseaux et télécommunications <a href=""><i class="fa-link fa"></i></a></li>
-            <li>Cours obligatoire pour formateurs/-trices d'apprenti-e-s (reconnue SEFRI) <a href=""><i class="fa-link fa"></i></a></li>
+        <h1><i class="fa fa-graduation-cap"></i><span class="fade6"> - Education</span></h1>
+        <ul class="text-lines line-height-lg">
+            <li>Bachelor of information processing and systems, option: networks and telecommunications <span class="helper"> - Haute Ecole de la Province de Liège 'Rennequin Sualem' <i class="fa fa-map-marker"></i> Seraing, Belgium</span></li>
+            <li>End of study project: XXXXX <span class="helper"> - Moovade <i class="fa fa-map-marker"></i> Visé, Belgium</span></span></li>
         </ul>
     </div>
     <div class="et-page et-page-3">
-        <h1 class="h1-fade"><i class="fa fa-money"></i> - Work</h1>
-        <ul>
-            <li>3 ans en Suisse comme IT Manager \ développeur web @ Afa Organisation SA<a href=""><i class="fa-link fa"></i></a></li>
-            <li>4 mois et demi en Inde comme benevol \ développeur web @ Kalkeri Sangeet Vidyalaya <a href=""><i class="fa-link fa"></i></a></li>
+        <h1><i class="fa fa-stack-overflow"></i><span class="fade6"> - Experience</span></h1>
+        <ul class="text-lines line-height-lg">
+            <li>2013 - Web Developer during 5 months as volunteer for an indian NGO <span class="helper"> - Kalkeri Sangeet Vidyalaya <i class="fa fa-map-marker"></i> Dharwad, Karnataka, India </span> </li>
+            <li>2010 - IT Manager / Web Developer during 3 years for a business supplies and equipment company <span class="helper">- Afa Organisation SA <i class="fa fa-map-marker"></i> Bern, Switzerland </span> </li>
+            <li>2009 - Internship during 4 months as developer for a mobile oriented software company <span class="helper">- Moovade <i class="fa fa-map-marker"></i> Visé, Belgium</span></span></li>
+
         </ul>
     </div>
-    <div class="et-page et-page-4">
-        <h1 class="h1-fade"><i class="fa fa-money"></i> - Competences</h1>
-        <ul>
-            <li>Javascript</li>
+    <div class="et-page et-page-4 et-page-skills">
+        <h1><i class="fa fa-wrench"></i><span class="fade6"> - Skills</span></h1>
+        <ul class="text-lines ul-center">
+            <h3 class="fade4 thin">FRONT-END</h3>
+            <li>Javascript - HTML5 - CSS3</li>
+            <li>jQuery - Backbone.js</li>
+            <h3 class="fade4 thin">BACK-END</h3>
+            <li>Php5 - Mysql - Nodejs</li>
+            <li>Laravel - Symfony - Wordpress - Drupal</li>
+            <h3 class="fade4 thin">OTHERS</h3>
+            <li>Amazon Web Services EC2 - Linux - Apache</li>
+            <li><span class="little"> And also: PLSQL, Oracle, ERP, J2SE, J2ME, JEE</span></li>
         </ul>
     </div>
-    <div class="et-page et-page-5">
-        <h1 class="h1-fade"><i class="fa fa-money"></i> - Workflow</h1>
-        <ul>
-            <li>Yeoman</li>
+    <div class="et-page et-page-5 et-page-workflow">
+        <h1><i class="fa fa-cogs"></i><span class="fade6"> - My Workflow</span></h1>
+        <ul class="text-lines">
+            <li>OS X</li>
+            <li>Sublime Text <span class="helper">(with Linter, Emmet, GitGutter...)</span></li>
+            <li>Sass <span class="helper">(as Stylesheet Pre-Processor)</span></li>
+            <li>Bootstrap 3 & Foundation <span class="helper">(as Css Framework)</span></li>
+            <li>Backbone.js <span class="helper">(as Javascript Framework)</span></li>
+            <li>Grunt <span class="helper">(as Javascript Task Manager)</span></li>
+            <li>Bower <span class="helper">(as Javascript Package Manager)</span></li>
+            <li>Laravel <span class="helper">(as PHP Framework and Back-End REST API)</span></li>
+            <li>PHPUnit & Selenium <span class="helper">(as PHP Testing Framework)</span></li>
+            <li><span class="helper">(And also: Yeoman.io, MochaJS, Handlebarsjs, Underscorejs, Requirejs, ...)</span></li>
         </ul>
     </div>
 </div>

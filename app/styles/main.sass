@@ -1,70 +1,108 @@
 @import colors
-html,body
+
+// selectors
+body,
+html
     height: 100%
-body 
+body
     background: $new_red url('../images/noise.png')
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif
-    color: #333333
-    position: relative
-h1,h2
-    text-align: center
-h1,h2,h3
-    font-weight: 100
-p
-    font-weight: 100   
-    color: $green 
-h1
     color: white
-    font-size: 40px
-    font-family: 'Satisfy', serif
-    font-weight: 400
-h2
-    margin-top: 40px
-    color: white
-    font-size: 20px
+h1,
+h2,
 h3
-    color: $grey    
-li
-    color: $green
-ul
-    list-style: none
-a
-    color: $grey
-    text-decoration: none
-    outline: none
-
+    text-align: center
 img
     width: 100px
     height: 100px
     display: block
-    margin-top: 5%
-    margin-left: auto
-    margin-right: auto
+    margin: 40px auto 0 auto
     border-radius: 50%
+h1
+    font-family: 'Satisfy', serif
+    font-weight: 400
+h2
+    margin-top: 40px
+    font-size: 20px    
+    font-weight: 100
+h3
+    font-size: 13px
+a
+    text-decoration: none
+    outline: none
+    color: white
+ul
+    list-style: disc
+
+// classes
+.fa-caret-right
+    margin-right: 5px
+.line-height-lg li
+    line-height: 35px
+.status
+    font-weight: 100
+    font-size: 18px
+.fa-small
+    font-size: 10px
+.infos
+    text-align: center
+    .name
+        margin-top: 30px
+    .hashtag
+        margin-top: 30px
+    .status
+        margin-top: 30px    
+        font-style: italic
 .et-wrapper
     height: 100%
     width: 100%
     margin: 0 auto
+
 .et-page
-    padding: 0 10%
+    padding: 0 20%
     margin-top: 9%
     background: rgba(0,0,0,0.05)
     height: 64%
-    p,li
-        color: white
+    // text-shadow: 0 -1px 0 rgba(0,0,0,0.3)
+    h2
+        margin-top: 15px    
+        margin-bottom: 15px
+.et-page-workflow
+    padding: 0 29%  
+.et-page-skills    
+    ul
+        list-style: none 
+.text-lines
     li
-        margin-bottom: 10px    
+        font-weight: 200
+        margin-bottom: 15px
 .rzo-soc
-    width: 231px
-    margin: 10px auto
+    margin: 10px 0
     padding: 20px
+    text-align: center
     a
-        color: white
         font-size: 40px
         padding: 5px
-.h1-fade
+.fade6
     opacity: 0.6
+.fade4
+    opacity: 0.4
+.thin
+    font-weight: 200    
+.rzo-soc .fa:hover
+    -webkit-transition: all 0.5s ease-out 
+    transition: all 0.5s ease-out 
+    -webkit-transform: rotate(15deg) 
+    -ms-transform: rotate(15deg) 
+    transform: rotate(15deg) 
+.helper
     font-weight: 200
+    font-size: 11px    
+    opacity: 0.6
+    font-style: italic
+.ul-center li    
+    text-align: center
 
-
-
+.little    
+    font-size: 11px
+    font-weight: 200
