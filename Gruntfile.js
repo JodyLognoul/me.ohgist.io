@@ -347,22 +347,17 @@ module.exports = function(grunt) {
                 'svgmin'
             ]
         },
-        // Remove unused CSS across multiple files
+        // Remove unused css
         uncss: {
             dist: {
-                options: {
-                    csspath      : '../.tmp/',
-                    stylesheets  : [
-                        'styles/dot.css',
-                        'styles/main.css',
-                        'styles/nav.css',
-                        'concat/styles/main.css',
-                        'concat/styles/vendor.css'
-                    ]
-                },
-                files: {
-                    'dist/styles/tidy.css': ['app/index.html']
-                }
+                files: [{
+                    src: ['<%= config.app %>/*.html'],
+                    dest: '.tmp/concat/styles/vendor.css'
+                }]
+            },
+            options: {
+                csspath: '../.tmp/concat/',
+                stylesheets  : ['styles/vendor.css'],
             }
         }
     });
@@ -408,6 +403,7 @@ module.exports = function(grunt) {
         'concurrent:dist',
         'autoprefixer',
         'concat',
+        'uncss',
         'cssmin',
         'uglify',
         'copy:dist',
