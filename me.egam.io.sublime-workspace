@@ -4,6 +4,62 @@
 		"selected_items":
 		[
 			[
+				"dis",
+				"disc"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"bowe",
+				"bower_components"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"colo",
+				"color_arrow"
+			],
+			[
+				"tit",
+				"titles"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"init",
+				"initDotsMenu"
+			],
+			[
+				"j",
+				"jq-boilerplate-min	jQuery Plugin Boilerplate Minified"
+			],
+			[
+				"pa",
+				"pagesCount"
+			],
+			[
 				"re",
 				"return"
 			],
@@ -28,10 +84,6 @@
 				"green"
 			],
 			[
-				"mar",
-				"margin-bottom"
-			],
-			[
 				"z",
 				"z-index"
 			],
@@ -44,20 +96,8 @@
 				"green"
 			],
 			[
-				"marg",
-				"margin-top"
-			],
-			[
-				"font",
-				"font-size"
-			],
-			[
 				"inline",
 				"inline-block"
-			],
-			[
-				"margin",
-				"margin-bottom"
 			],
 			[
 				"padin",
@@ -284,10 +324,6 @@
 				"rowClass"
 			],
 			[
-				"pa",
-				"parent"
-			],
-			[
 				"new",
 				"newElem"
 			],
@@ -306,10 +342,6 @@
 			[
 				"get",
 				"getOptions"
-			],
-			[
-				"op",
-				"options"
 			],
 			[
 				"In",
@@ -476,94 +508,46 @@
 				"gmapString"
 			],
 			[
-				"init",
-				"initMap"
-			],
-			[
 				"gma",
 				"gmapString"
 			],
 			[
 				"inut",
 				"inputSelect"
-			],
-			[
-				"pos",
-				"position"
-			],
-			[
-				"span",
-				"span3"
-			],
-			[
-				"W",
-				"width"
-			],
-			[
-				"text",
-				"text-decoration"
-			],
-			[
-				"regi",
-				"Register"
-			],
-			[
-				"al",
-				"alink"
-			],
-			[
-				"_",
-				"_link"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "app/index.html",
-			"settings":
-			{
-				"buffer_size": 14172,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "build.sh",
-			"settings":
-			{
-				"buffer_size": 191,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/styles/nav.sass",
-			"settings":
-			{
-				"buffer_size": 1772,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/bower_components/ElementTransitions.js/src/js/elementTransitions.js",
-			"settings":
-			{
-				"buffer_size": 4012,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/bower_components/ElementTransitions.js/src/css/elementTransitions.css",
-			"settings":
-			{
-				"buffer_size": 53029,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "app/styles/main.sass",
 			"settings":
 			{
-				"buffer_size": 1008,
+				"buffer_size": 1966,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 11092,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 12612,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 955,
 				"line_ending": "Unix"
 			}
 		}
@@ -575,24 +559,36 @@
 		"selected_items":
 		[
 			[
-				"rein",
-				"Indentation: Reindent Lines"
-			],
-			[
-				"da",
-				"DashDoc: invoke Dash with selected word"
+				"remo",
+				"Package Control: Remove Package"
 			],
 			[
 				"remove",
 				"Package Control: Remove Package"
 			],
 			[
-				"remo",
-				"Package Control: Remove Package"
+				"upp",
+				"Convert Case: Upper Case"
 			],
 			[
 				"ins",
 				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"da",
+				"DashDoc: invoke Dash with selected word"
 			],
 			[
 				"in",
@@ -655,24 +651,12 @@
 				"Indentation: Convert to Spaces"
 			],
 			[
-				"conver",
-				"Indentation: Convert to Tabs"
-			],
-			[
 				"path",
 				"File: Copy Path From Project"
 			],
 			[
-				"re",
-				"Indentation: Reindent Lines"
-			],
-			[
 				"font",
 				"Preferences: Package Control Settings – Default"
-			],
-			[
-				"upp",
-				"Convert Case: Upper Case"
 			],
 			[
 				"upper",
@@ -975,7 +959,7 @@
 				"Set Syntax: Java"
 			]
 		],
-		"width": 593.0
+		"width": 521.0
 	},
 	"console":
 	{
@@ -996,26 +980,68 @@
 	},
 	"file_history":
 	[
+		"/private/var/www/dev/me.egam.io/Gruntfile.js",
+		"/private/var/www/dev/me.egam.io/app/.htaccess",
+		"/private/var/www/dev/me.egam.io/dist/.htaccess",
+		"/private/var/www/dev/me.egam.io/me.egam.io.sublime-project",
+		"/private/var/www/dev/me.egam.io/bower.json",
+		"/private/var/www/dev/me.egam.io/build.sh",
+		"/private/var/www/dev/me.egam.io/app/index.html",
+		"/private/var/www/dev/me.egam.io/package.json",
+		"/private/var/www/dev/me.egam.io/app/styles/old.sass",
+		"/private/var/www/dev/me.egam.io/app/styles/icon-moving.css",
+		"/private/var/www/dev/me.egam.io/app/styles/main.sass",
+		"/private/var/www/dev/me.egam.io/.tmp/concat/styles/main.css",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-newer/lib/util.js",
+		"/private/var/www/dev/me.egam.io/dist/styles/4703bbac.main.css",
+		"/private/var/www/dev/me.egam.io/app/bower_components/modernizr/test/caniuse_files/style.css",
+		"/private/var/www/dev/me.egam.io/.tmp/styles/dot.css",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt/lib/grunt/task.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt/lib/util/task.js",
+		"/Users/jody/Downloads/albums.html",
+		"/private/var/www/dev/me.egam.io/.tmp/styles/main.css",
+		"/private/var/www/dev/me.egam.io/dist/styles/tidy.css",
+		"/private/var/www/dev/me.egam.io/dist/css/tidy.css",
+		"/private/var/www/dev/me.egam.io/app/scripts/nav.js",
+		"/private/var/www/dev/me.egam.io/app/styles/nav.sass",
+		"/private/var/www/dev/me.egam.io/app/styles/dot.sass",
+		"/private/var/www/dev/me.egam.io/.gitignore",
+		"/private/var/www/dev/me.egam.io/app/bower_components/ElementTransitions.js/src/js/elementTransitions.js",
+		"/private/var/www/dev/me.egam.io/app/styles/colors.sass",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-contrib-clean/docs/clean-options.md",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-contrib-clean/CHANGELOG",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-contrib-jshint/node_modules/jshint/data/non-ascii-identifier-start.js",
+		"/private/var/www/dev/me.egam.io/node_modules/jshint-stylish/node_modules/text-table/test/ansi-colors.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-autoprefixer/node_modules/chalk/node_modules/ansi-styles/ansi-styles.js",
+		"/private/var/www/dev/me.egam.io/app/scripts/dot.js",
+		"/Users/jody/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jody/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/private/var/www/dev/me.egam.io/app/bower_components/modernizr/feature-detects/elem-datalist.js",
+		"/private/var/www/dev/me.egam.io/app/bower_components/ElementTransitions.js/src/css/elementTransitions.css",
+		"/private/var/www/dev/me.egam.io/app/bower_components/modernizr/feature-detects/elem-track.js",
+		"/private/var/www/dev/me.egam.io/app/bower_components/modernizr/feature-detects/elem-time.js",
+		"/private/var/www/dev/me.egam.io/app/bower_components/modernizr/feature-detects/elem-ruby.js",
+		"/private/var/www/dev/me.egam.io/app/bower_components/modernizr/feature-detects/elem-output.js",
+		"/private/var/www/dev/me.egam.io/app/bower_components/modernizr/feature-detects/elem-details.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-contrib-uglify/node_modules/uglify-js/lib/transform.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-svgmin/node_modules/svgo/node_modules/sax/test/trailing-non-whitespace.js",
+		"/private/var/www/dev/me.egam.io/app/bower_components/jquery/src/traversing.js",
+		"/private/var/www/dev/me.egam.io/test/spec/test.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-svgmin/node_modules/svgo/node_modules/sax/test/trailing-attribute-no-value.js",
+		"/private/var/www/dev/me.egam.io/node_modules/grunt-autoprefixer/node_modules/autoprefixer/lib/value.js",
 		"/private/var/www/dev/me.egam.io/app/bower_components/ElementTransitions.js/src/js/test.js",
 		"/Users/jody/Library/Application Support/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
-		"/private/var/www/dev/me.egam.io/build.sh",
 		"/private/var/www/dev/me.egam.io/tmp_project/app/index.html",
 		"/private/var/www/dev/me.egam.io/node_modules/grunt-svgmin/node_modules/svgo/plugins/removeNonInheritableGroupAttrs.js",
 		"/private/var/www/dev/me.egam.io/node_modules/grunt/node_modules/findup-sync/node_modules/glob/test/readme-issue.js",
 		"/private/var/www/dev/me.egam.io/README.md",
-		"/private/var/www/dev/me.egam.io/app/scripts/dot.js",
 		"/private/var/www/dev/me.egam.io/app/scripts/main.js",
 		"/private/var/www/dev/me.egam.io/node_modules/grunt-bower-install/node_modules/bower-config/node_modules/mout/array/invoke.js",
 		"/private/var/www/dev/me.egam.io/app/bower_components/ElementTransitions.js/build/elementTransitions.css",
 		"/private/var/www/dev/me.egam.io/node_modules/grunt-mocha/node_modules/grunt-lib-phantomjs/node_modules/temporary/node_modules/package/examples/custom_path.js",
-		"/private/var/www/dev/me.egam.io/package.json",
 		"/private/var/www/dev/me.egam.io/node_modules/grunt-svgmin/node_modules/svgo/plugins/moveElemsAttrsToGroup.js",
 		"/private/var/www/dev/me.egam.io/app/bower_components/modernizr/feature-detects/pointerlock-api.js",
-		"/private/var/www/dev/me.egam.io/app/bower_components/ElementTransitions.js/src/css/elementTransitions.css",
 		"/private/var/www/dev/me.egam.io/app/bower_components/ElementTransitions.js/build/elementTransitions.min.js",
-		"/private/var/www/dev/me.egam.io/app/styles/main.sass",
-		"/private/var/www/dev/me.egam.io/app/styles/dot.sass",
-		"/private/var/www/dev/me.egam.io/bower.json",
 		"/private/var/www/dev/me.egam.io/app/styles/animation.css",
 		"/private/var/www/dev/me.egam.io/app/styles/todo1.css",
 		"/private/var/www/dev/me.egam.io/app/scripts/pagetransitions.js",
@@ -1025,7 +1051,6 @@
 		"/private/var/www/dev/me.egam.io/node_modules/grunt-contrib-clean/AUTHORS",
 		"/Users/jody/Downloads/transition.js-master/js/transition.js",
 		"/Users/jody/Downloads/transition.js-master/css/demo-single-page.css",
-		"/private/var/www/dev/me.egam.io/app/styles/colors.sass",
 		"/Users/jody/Downloads/transition.js-master/css/animation.css",
 		"/private/var/www/dev/me.egam.io/app/styles/dotcss.css",
 		"/private/var/www/dev/me.egam.io/app/styles/2-todo.css",
@@ -1037,7 +1062,6 @@
 		"/private/var/www/dev/me.egam.io/app/bower_components/fontawesome/scss/_icons.scss",
 		"/private/var/www/dev/me.egam.io/node_modules/grunt-svgmin/node_modules/svgo/node_modules/sax/test/attribute-no-space.js",
 		"/private/var/www/dev/me.egam.io/node_modules/grunt-bower-install/node_modules/bower-config/node_modules/mout/lang/isNull.js",
-		"/private/var/www/dev/me.egam.io/app/index.html",
 		"/private/var/www/dev/me.egam.io/node_modules/grunt-svgmin/node_modules/svgo/plugins/convertShapeToPath.js",
 		"/private/var/www/dev/me.egam.io/node_modules/grunt-mocha/node_modules/grunt-lib-phantomjs/node_modules/phantomjs/node_modules/request/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-pipe-resumes.js",
 		"/private/var/www/dev/me.egam.io/node_modules/grunt-bower-install/node_modules/bower-config/node_modules/mout/src/lang/inheritPrototype.js",
@@ -1058,11 +1082,9 @@
 		"/private/var/www/dev/me.egam.io/node_modules/load-grunt-tasks/package.json",
 		"/private/var/www/dev/me.egam.io/node_modules/grunt/node_modules/glob/test/pause-resume.js",
 		"/private/var/www/dev/me.egam.io/node_modules/grunt-contrib-concat/test/expected/process_function",
-		"/private/var/www/dev/me.egam.io/me.egam.io.sublime-project",
 		"/Users/jody/Library/Application Support/Sublime Text 3/Packages/User/excludeFromStProject.sublime-snippet",
 		"/private/etc/apache2/extra/httpd-vhosts.conf",
 		"/private/etc/apache2/httpd.conf",
-		"/private/var/www/dev/me.egam.io/Gruntfile.js",
 		"/private/var/www/dev/me.egam.io/app/styles/style.sass",
 		"/private/var/www/dev/me.egam.io/.tmp/concat/styles/vendor.css",
 		"/private/var/www/dev/me.egam.io/app/vendor/foundation/scss/_settings.scss",
@@ -1085,45 +1107,7 @@
 		"/private/var/www/dev/me.egam.io/app/styles/vendor/foundation/stylesheets/settings.scss",
 		"/private/var/www/dev/me.egam.io/app/styles/main.css",
 		"/private/var/www/dev/me.egam.io/.tmp/styles/new.css",
-		"/private/var/www/dev/me.egam.io/app/styles/app.scss",
-		"/private/var/www/dev/me.egam.io/app/styles/_settings.scss",
-		"/private/var/www/dev/me.egam.io/app/styles/new.sass",
-		"/private/var/www/dev/egam.io/app/views/layouts/master.blade.php",
-		"/Users/jody/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
-		"/private/var/www/dev/gg-mobile-first/public/css/vendor/bootflat/css/bootflat.css",
-		"/private/var/www/dev/gg-mobile-first/public/css/main.css",
-		"/private/var/www/dev/gg-mobile-first/public/css/landing.css",
-		"/private/var/www/dev/gg-mobile-first/composer.phar",
-		"/private/var/www/dev/gg-mobile-first/app/lang/en/reminders.php",
-		"/private/var/www/dev/gg-mobile-first/readme.md",
-		"/private/var/www/dev/gg-mobile-first/app/routes.php",
-		"/private/var/www/dev/gg-mobile-first/public/js/app/event/index/viewActiveFilterSorting.js",
-		"/private/var/www/dev/gg-mobile-first/public/js/app/event/index/controller.js",
-		"/private/var/www/dev/gg-mobile-first/public/js/vendor/backbone-amd/backbone.js",
-		"/private/var/www/dev/gg-mobile-first/public/js/app/event/index/router.js",
-		"/private/var/www/dev/gg-mobile-first/.gitignore",
-		"/Users/jody/Library/Caches/Cleanup At Startup/Transmit/9AB2A8F7-979E-4442-A5CD-DB4B3E075665/wp-config.php",
-		"/private/var/www/dev/gg-mobile-first/public/js/app/event/index/viewCollection.js",
-		"/private/var/www/dev/gg-mobile-first/public/js/app/event/index/collection.js",
-		"/private/var/www/dev/gg-mobile-first/public/js/app/event/index/main.js",
-		"/private/var/www/dev/gg-mobile-first/app/views/layouts/master.blade.php",
-		"/private/var/www/dev/gg-mobile-first/public/css/main.sass",
-		"/private/var/www/dev/gg-mobile-first/public/js/app/event/index-map/main.js",
-		"/private/var/www/dev/gg-mobile-first/app/views/event/index-map.blade.php",
-		"/private/var/www/dev/gg-mobile-first/bower.json",
-		"/private/var/www/dev/gg-mobile-first/app/controllers/EventController.php",
-		"/private/var/www/dev/gg-mobile-first/app/views/event/map/index-map.blade.php",
-		"/private/var/www/dev/gg-mobile-first/gg-mobile-first.sublime-project",
-		"/private/var/www/dev/gg-mobile-first/app/views/event/map/index.blade.php",
-		"/private/var/www/dev/gg-mobile-first/app/views/event/index.blade.php",
-		"/private/var/www/dev/gg-mobile-first/build.sh",
-		"/private/var/www/dev/gg-mobile-first/scripts/build.sh",
-		"/private/var/www/dev/gg-mobile-first/scripts/connect-ec2.sh",
-		"/private/var/www/dev/gg-mobile-first/shell-scripts/connect-ec2.sh",
-		"/Users/jody/Library/Application Support/Sublime Text 2/Packages/User/_date.sublime-snippet",
-		"/private/var/www/dev/gg-mobile-first/public/js/app/event/index/viewProgressbar.js",
-		"/Users/jody/Desktop/albums.html",
-		"/private/var/www/dev/gg-mobile-first/public/packages/.gitkeep"
+		"/private/var/www/dev/me.egam.io/app/styles/app.scss"
 	],
 	"find":
 	{
@@ -1131,9 +1115,11 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
+			"/private/var/www/dev/me.egam.io/app",
+			"/private/var/www/dev/me.egam.io",
 			"/private/var/www/dev/gg-mobile-first",
 			"/private/var/www/dev/gg-mobile-first/app",
 			"/private/var/www/dev/gg-mobile-first",
@@ -1210,139 +1196,139 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"h3",
-			";",
-			"}",
-			"{",
-			";",
-			"{",
-			"}",
-			"pt-page-moveToRightEasing",
-			"pt-page-moveToLeftEasing",
-			"animate",
-			"-index",
-			"index",
-			"activePage",
-			";",
-			"block.data('index')",
-			"FromLeft",
-			"Right",
-			"index",
-			"2",
-			"a-et-i",
-			" et-in=\"moveFromLeft\"",
-			"top\"",
-			"moveFromLeft",
-			"\"",
-			"this",
-			"block",
-			"et-rotate",
-			"moveToRightEasing",
-			"moveFromLeft",
-			"et-rotate",
-			"rotate",
-			"<h2>Page",
-			"red",
-			"</h2>",
-			"\"",
-			"==",
-			"button",
-			"et-rotate",
-			"rotate",
-			"$(\".et-rotate\")",
-			"et-rotate",
-			"click",
-			"h2",
-			"goto",
-			"==",
-			"6",
-			"5",
-			"13",
-			"current",
-			"gotoPage",
-			"</li>",
-			"button",
-			"// ",
-			";",
-			"#",
-			"}",
-			"{",
 			"usemin",
-			"concat",
-			"build",
-			"build:",
-			"concat:",
-			"conca",
-			"cona",
-			"contri",
-			"easing",
-			"eas",
-			"$currentPag",
-			"$nextPage",
-			"alert",
-			"!=",
-			"==",
-			"pageTrigger",
-			"out",
-			"animationClasses",
-			"  ",
-			";",
-			"{",
-			"}",
-			";",
-			"{",
-			"#c44d48",
-			";",
-			"}",
-			"{",
-			";",
-			" ",
-			"}",
-			"{",
-			".dotstyle-tooltip",
-			";",
-			"}",
-			"{",
-			".dotstyle-tooltip",
-			".no-touch \n    .dotstyle-tooltip",
-			".dotstyle-tooltip",
-			"dotstyle-tooltip ",
-			".dotstyle-tooltip",
-			"dotstyle-tooltip",
-			";",
-			"{",
-			"}",
-			".dotstyle-fillup li a",
-			";",
-			"}",
-			"{",
-			";",
-			"{",
-			"}",
-			"virtual",
+			"useminPrepare",
+			"f=\"",
+			"<i class=\"fa fa-map-marker\"></i>",
+			"<h1>",
+			"<i class=\"fa-li fa fa-caret-right\"></i>",
+			"fa-ul",
+			"<i class=\"fa-li fa fa-caret-right\"></i> ",
+			"fa-li ",
+			"fa-ul",
+			" fa-ul ",
+			"<span cla",
+			"\"> ",
+			"40",
+			"fade6",
+			"class=\"fade6\"",
+			"thin-fade",
+			"h2",
+			"h1-fade",
+			"-li",
+			" fa ",
+			"java",
+			"ja",
+			"manager",
+			"fa-angle-right",
 			"<li>",
-			"fa-external-link",
-			",",
+			"</b>",
+			"<b>",
+			"fa-code",
+			"laptop",
+			"<a href=\"\"><i class=\"fa-link fa\"></i></a>",
+			"<ul>",
+			"<li>",
+			"et-page",
+			"Workflow",
+			"1s",
+			"7.5",
+			"1",
+			"/*",
+			"0.3",
 			";",
-			"'*.scss'",
-			"scss",
-			"main",
-			"main.scss",
+			"7.5",
 			";",
-			"body:",
-			"body :",
-			"body:",
-			"body",
-			"font-size",
-			"primary-color:",
-			"primary-color",
-			"primary",
-			"compass"
+			"class=\"icon-moving\"",
+			"-moz-",
+			"\"cl",
+			"c",
+			"icon-moving",
+			"hi-icon-effect-6",
+			"a hre",
+			"Competences",
+			"PROFILE",
+			"Work",
+			"School",
+			"Home",
+			"styles/fonts",
+			"fonts",
+			"font",
+			"vendor",
+			"serve:",
+			"files:",
+			".app",
+			"yeoman",
+			"yeoman.app",
+			"usemin",
+			"usermin",
+			"cssmin",
+			"autoprefixer",
+			"concat:",
+			"concat",
+			"htmlmin",
+			".tmp",
+			"usemin",
+			"copy",
+			"useminPrepare",
+			"clean",
+			"clean:dist",
+			"<a class=\"albumThumbLink uiMediaThumb uiScrollableThumb\" href=\"https://www.facebook.com/media/set/(.*?)type=3\" tabindex=\"-1\">",
+			"Competences",
+			"Products",
+			"htmlmin",
+			"html",
+			"uncss",
+			"cssm",
+			"rev",
+			"registerTask",
+			"dev",
+			"prod",
+			"load",
+			"async",
+			"noise",
+			"png",
+			"concurrent",
+			"htmlmin",
+			"usemin",
+			"imagemin",
+			"image",
+			"About",
+			"-2\"",
+			"arrow-left-2",
+			"hover",
+			"color_back",
+			"34495e",
+			"#566473",
+			"color_arrow",
+			"34495e",
+			"#566473",
+			"#34495e",
+			"    <br>\n    <br>\n",
+			"140px",
+			"$green",
+			"colormenu",
+			"green",
+			"#34495e",
+			"#566473",
+			"<h2>Page",
+			"white",
+			"fff",
+			"white",
+			" ",
+			"updatesDotsMenu",
+			"$('.dotstyle > ul').find('li')",
+			"data-index=\"",
+			"cons",
+			"defini",
+			"goto",
+			"getTransitionPrefix",
+			"gotoIndex"
 		],
 		"highlight": false,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
 			"http://www2.ksv.org.in",
@@ -1384,24 +1370,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "app/index.html",
+					"file": "app/styles/main.sass",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 14172,
+						"buffer_size": 1966,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6009,
-								6009
+								205,
+								205
 							]
 						],
 						"settings":
@@ -1409,10 +1395,42 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
@@ -1420,111 +1438,11 @@
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
-								"bh_round_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close"
+								"bh_round_close"
 							],
-							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1228.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "build.sh",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 191,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								109,
-								109
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close"
-							],
-							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1534,32 +1452,99 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "app/styles/nav.sass",
+					"buffer": 1,
+					"file": "app/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1772,
+						"buffer_size": 11092,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								976,
-								976
-							],
+								411,
+								500
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"SideBarAutoAddFoldersForOpenedFiles": 1,
+							"bh_regions":
 							[
-								1334,
-								1334
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close"
 							],
+							"syntax": "Packages/Handlebars/Handlebars.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12612,
+						"regions":
+						{
+						},
+						"selection":
+						[
 							[
-								1449,
-								1449
-							],
-							[
-								1629,
-								1629
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1567,54 +1552,57 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
 								"bh_double_quote",
 								"bh_double_quote_center",
 								"bh_double_quote_open",
 								"bh_double_quote_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close"
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close"
 							],
-							"open_with_edit": true,
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 745.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -1622,19 +1610,19 @@
 				},
 				{
 					"buffer": 3,
-					"file": "app/bower_components/ElementTransitions.js/src/js/elementTransitions.js",
+					"file": "package.json",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4012,
+						"buffer_size": 955,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1519,
-								1519
+								130,
+								130
 							]
 						],
 						"settings":
@@ -1642,10 +1630,34 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
@@ -1654,191 +1666,24 @@
 								"bh_regex_center",
 								"bh_regex_open",
 								"bh_regex_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
 								"bh_square_close"
 							],
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 721.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "app/bower_components/ElementTransitions.js/src/css/elementTransitions.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 53029,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3901,
-								3926
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close"
-							],
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 2254.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "app/styles/main.sass",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1008,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								798,
-								798
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close"
-							],
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 409.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1903,12 +1748,48 @@
 		"selected_items":
 		[
 			[
-				"ele",
-				"app/bower_components/ElementTransitions.js/src/css/elementTransitions.css"
+				"bo",
+				"bower.json"
 			],
 			[
 				"mains",
 				"app/styles/main.sass"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"colo",
+				"app/styles/colors.sass"
+			],
+			[
+				"navsa",
+				"app/styles/nav.sass"
+			],
+			[
+				"do",
+				"app/styles/dot.sass"
+			],
+			[
+				"dotjs",
+				"app/scripts/dot.js"
+			],
+			[
+				"elejs",
+				"app/bower_components/ElementTransitions.js/src/js/elementTransitions.js"
+			],
+			[
+				"elemjs",
+				"app/bower_components/ElementTransitions.js/src/js/elementTransitions.js"
+			],
+			[
+				"dotsas",
+				"app/styles/dot.sass"
+			],
+			[
+				"ele",
+				"app/bower_components/ElementTransitions.js/src/css/elementTransitions.css"
 			],
 			[
 				"elecss",
@@ -2377,42 +2258,6 @@
 			[
 				"usercon",
 				"app/controllers/UserController.php"
-			],
-			[
-				"partycon",
-				"app/controllers/PartyController.php"
-			],
-			[
-				"creaadd",
-				"app/database/migrations/2013_11_27_094759_create_address_table.php"
-			],
-			[
-				"creaparty",
-				"app/database/migrations/2013_11_27_094807_create_party_table.php"
-			],
-			[
-				"partyinde",
-				"app/views/party/index.blade.php"
-			],
-			[
-				"bootfl",
-				"public/css/vendor/bootflat/css/bootflat.css"
-			],
-			[
-				"seedpa",
-				"app/database/seeds/PartyTableSeeder.php"
-			],
-			[
-				"seedpart",
-				"app/database/seeds/PartyTableSeeder.php"
-			],
-			[
-				"partindex",
-				"app/views/party/index.blade.php"
-			],
-			[
-				"partyshow",
-				"app/views/party/show.blade.php"
 			]
 		],
 		"width": 0.0
@@ -2424,7 +2269,7 @@
 		[
 			[
 				"",
-				"/private/var/www/dev/egam.io/egam.io.sublime-project"
+				"/private/var/www/dev/ksvwebsite/ksv-local.sublime-project"
 			]
 		],
 		"width": 380.0
