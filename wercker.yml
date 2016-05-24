@@ -37,4 +37,5 @@ build:
           --stats \
           --delete-after \
           --exclude='node_modules' \
+          --exclude='.git' \
           . root@ohgist.io:/var/www/me.ohgist.io
