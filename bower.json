@@ -3,7 +3,7 @@
   "private": true,
   "dependencies": {
     "jquery": "~1.11.0",
-    "font-awesome": "fontawesome#^4.6.3",
+    "font-awesome": "~4.6.3",
     "ElementTransitions.js": "*",
     "normalize-css": "^4.1.1"
   },
