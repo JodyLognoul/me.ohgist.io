@@ -2,7 +2,7 @@ box: php
 build:
   steps:
     - install-packages:
-      packages: openssh-client rsync git unzip gem
+      packages: openssh-client rsync git unzip rubygems
     - add-to-known_hosts:
       hostname: ohgist.io
     - mktemp:
