@@ -88,7 +88,7 @@ var PageTransitions = (function($) {
 	}
 
 	function animate(block, callback) {
-		nextPage(block.data('index'), block.parents('body').children('.et-wrapper'), $(block).attr('et-out'), $(block).attr('et-in'), callback);
+		nextPage(block.data('index'), block.parents('body').find('.et-wrapper'), $(block).attr('et-out'), $(block).attr('et-in'), callback);
 	}
 	
 	function nextPage(gotoIndex, block, outClass, inClass, callback) {
