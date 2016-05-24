@@ -22,6 +22,7 @@ build:
         npm install -g npm
         npm install -g grunt
         npm install -g bower
+        gem install sass
     - script:
       name: build project
       code: |
