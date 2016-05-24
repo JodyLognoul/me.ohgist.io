@@ -1,5 +1,5 @@
 box: php
-deploy:
+build:
   steps:
     - install-packages:
       packages: openssh-client rsync git unzip
