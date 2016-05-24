@@ -1,0 +1,40 @@
+box: php
+build:
+  steps:
+    - script:
+       name: echo
+       code: echo 'Build done and empty!'
+deploy:
+  steps:
+    - install-packages:
+      packages: openssh-client rsync git unzip
+    - add-to-known_hosts:
+      hostname: ohgist.io
+    - mktemp:
+      envvar: PRIVATEKEY_PATH
+    - create-file:
+      name: write key
+      filename: $PRIVATEKEY_PATH
+      content: $DIGITAL_OCEAN_KEY_PRIVATE
+      overwrite: true
+      hide-from-log: true
+    - script:
+      name: install dependencies
+      code: |
+        curl -sL https://deb.nodesource.com/setup_6.x | bash -
+        apt-get install -y nodejs
+        npm set progress=false
+        npm install -g npm
+        npm install -g grunt
+        npm install -g bower
+    - script:
+      name: build project
+      code: |
+        npm install
+        bower install --allow-root
+        grunt
+    - script:
+      name: deployment (rsync)
+      code: |
+        rsync -avz -e "ssh -i $PRIVATEKEY_PATH" -h --stats --delete-after \
+          --exclude='node_modules' . root@ohgist.io:/var/www/me.ohgist.io
