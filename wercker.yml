@@ -1,9 +1,4 @@
 box: php
-build:
-  steps:
-    - script:
-       name: echo
-       code: echo 'Build done and empty!'
 deploy:
   steps:
     - install-packages:
