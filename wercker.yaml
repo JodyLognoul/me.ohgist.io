@@ -36,5 +36,9 @@ deploy:
     - script:
       name: deployment (rsync)
       code: |
-        rsync -avz -e "ssh -i $PRIVATEKEY_PATH" -h --stats --delete-after \
-          --exclude='node_modules' . root@ohgist.io:/var/www/me.ohgist.io
+        rsync -avz -e "ssh -i $PRIVATEKEY_PATH" \
+          -h \
+          --stats \
+          --delete-after \
+          --exclude='node_modules' \
+          . root@ohgist.io:/var/www/me.ohgist.io
