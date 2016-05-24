@@ -2,7 +2,7 @@ box: php
 build:
   steps:
     - install-packages:
-      packages: openssh-client rsync git unzip
+      packages: openssh-client rsync git unzip gem
     - add-to-known_hosts:
       hostname: ohgist.io
     - mktemp:
@@ -28,7 +28,7 @@ build:
       code: |
         npm install
         bower install --allow-root
-        grunt
+        grunt build
     - script:
       name: deployment (rsync)
       code: |
